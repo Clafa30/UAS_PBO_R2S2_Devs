@@ -20,3 +20,5 @@ Project Ini membutuhkan database 'ordermakanan' harap import terlebih dahulu ord
 1. mengatur ketersediaan table
 2. mengatur status pesanan menjadi selesai
 3. menyorting pesanan yang selesai ke halaman berbeda 
+
+# Aplikasi ini saya build dengan java 23 #

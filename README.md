@@ -6,7 +6,7 @@ Nama Anggota :
 3. Rolis Liu
 4. Syafiq Afifful Azmi
 
-# Project Ini membutuhkan database 'ordermakanan' harap import terlebih dahulu ordermakanan.sql 
+Project Ini membutuhkan database 'ordermakanan' harap import terlebih dahulu ordermakanan.sql 
 
 # Fitur-Fitur Pelanggan
 1.  login dengan username dan no meja

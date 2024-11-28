@@ -1,5 +1,4 @@
 # UAS_PBO_R2S2_Devs
-ini di zip karena gabisa upload lebih dari 100 files kang :'
 
 Nama Anggota :
 1. Rafaisya Dwi Adrianto
